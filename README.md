@@ -23,3 +23,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbek1221&layout=compact&theme=tokyonight)
 ## 📫 Bog'lanish
 Email: jabborovnurbek@outlook.com
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Nurbek1221/Nurbek1221/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
